@@ -1,0 +1,15 @@
+/home/arteN01-043/Documents/c#/menu/bin/Debug/net7.0/menu
+/home/arteN01-043/Documents/c#/menu/bin/Debug/net7.0/menu.deps.json
+/home/arteN01-043/Documents/c#/menu/bin/Debug/net7.0/menu.runtimeconfig.json
+/home/arteN01-043/Documents/c#/menu/bin/Debug/net7.0/menu.dll
+/home/arteN01-043/Documents/c#/menu/bin/Debug/net7.0/menu.pdb
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.csproj.AssemblyReference.cache
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.AssemblyInfoInputs.cache
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.AssemblyInfo.cs
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.csproj.CoreCompileInputs.cache
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.dll
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/refint/menu.dll
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.pdb
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.genruntimeconfig.cache
+/home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/ref/menu.dll
