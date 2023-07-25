@@ -13,3 +13,18 @@
 /home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.pdb
 /home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/menu.genruntimeconfig.cache
 /home/arteN01-043/Documents/c#/menu/obj/Debug/net7.0/ref/menu.dll
+C:\Users\Anderson Cespedes\Documents\c#\telefono\bin\Debug\net7.0\menu.exe
+C:\Users\Anderson Cespedes\Documents\c#\telefono\bin\Debug\net7.0\menu.deps.json
+C:\Users\Anderson Cespedes\Documents\c#\telefono\bin\Debug\net7.0\menu.runtimeconfig.json
+C:\Users\Anderson Cespedes\Documents\c#\telefono\bin\Debug\net7.0\menu.dll
+C:\Users\Anderson Cespedes\Documents\c#\telefono\bin\Debug\net7.0\menu.pdb
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.csproj.AssemblyReference.cache
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.AssemblyInfoInputs.cache
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.AssemblyInfo.cs
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.dll
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\refint\menu.dll
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.pdb
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\menu.genruntimeconfig.cache
+C:\Users\Anderson Cespedes\Documents\c#\telefono\obj\Debug\net7.0\ref\menu.dll
